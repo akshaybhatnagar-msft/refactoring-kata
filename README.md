@@ -17,7 +17,7 @@ Bonus points for thinking about scalability (how to support other models), laten
 ## Getting Started
 
 1. Clone this repository
-2. Review `ml_inference_service.py`
+2. Review `request_handler.py`
 3. Identify architectural problems
 4. Refactor into well-structured components
 5. Document your design decisions
