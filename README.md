@@ -30,5 +30,5 @@ Please create a PR and I will review it for you. Minimum requirements -
 - Configuration management approach
 
 ## If you use any AI help, please be honest and tell me where and how. I am okay with you using some AI tooling for writing code but the ideas have to be yours. For example -
-- It's oaky to ask AI - can you show me a small sample snippet for how to read/write files from a network
+- It's okay to ask AI - can you show me a small sample snippet for how to read/write files from a network
 - It's not okay to ask AI - review this code and clean it up as per my interviewer
