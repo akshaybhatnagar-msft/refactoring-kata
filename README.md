@@ -2,7 +2,7 @@
 
 ## Overview
 
-The `ml_inference_service.py` file contains a working but poorly structured ML inference service. Your task is to refactor this code to improve maintainability, testability, and production readiness.
+The `request_handler.py` file contains a working but poorly structured ML inference service. Your task is to refactor this code to improve maintainability, testability, and production readiness.
 
 ## Your task
 - Find and fix any bug you see in this code
