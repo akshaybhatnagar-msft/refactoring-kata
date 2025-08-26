@@ -205,3 +205,35 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+# Visual Studio Code specific files
+.vscode/
+*.code-workspace
+.vs/*
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Visual Studio working files
+.vs/
+
+# Auto-generated files
+*.generated.cs
+
+# Package directories
+packages/
+node_modules/
+
+
