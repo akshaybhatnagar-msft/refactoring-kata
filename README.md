@@ -1,6 +1,8 @@
 # ML Inference Service Refactoring Challenge
 
 ## Overview
+This is a code refactoring challenge used for accessing a candidate's ability to apply design principles and clean code to an average common code base. 
+You are free to reachitect the whole code as you'd like and come up with a compeling re-design. This challenge is public and you can use AI for help (see section below on AI guidelines).
 
 The `request_handler.py` file contains a working but poorly structured ML inference service. Your task is to refactor this code to improve maintainability, testability, and production readiness.
 
